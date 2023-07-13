@@ -1,6 +1,9 @@
 # mgrc
 # helpwithcode
-<p>mgrc: The proper name used to refer to, the code which I built.</p>
+<p>
+  mgrc: The proper name used to refer to, the code which I built.
+  <br>helpwithcode: A reference indicating, help about mgrc.
+</p>
 <hr>
 <p>
   https://helpwithcode.w3spaces.com
